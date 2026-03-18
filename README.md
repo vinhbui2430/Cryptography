@@ -8,4 +8,8 @@ Write a program using C, Cpp or Python to implement Playfair Cipher and use in-c
 
 ## Week 3
 
-Implement extended Euclidean algorithm to find the multiplicative inverse of a number in $GF{2^10}$
+Implement extended Euclidean algorithm to find the multiplicative inverse of a number in $GF{2^{10}}$
+
+## Week 4
+
+Implement RC4 algorithm to encode message stream m="cryptography"
